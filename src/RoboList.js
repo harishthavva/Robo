@@ -1,0 +1,37 @@
+export const RoboList=[
+    {
+        id:1,
+        name:"Harish",
+        city:"Ongole"
+    },
+    {
+        id:2,
+        name:"Chetan",
+        city:"Pune"
+    },
+    {
+        id:3,
+        name:"Sabhyata",
+        city:"Bhopal"
+    },
+    {
+        id:4,
+        name:"Soman",
+        city:"Aurangabad"
+    },
+    {
+        id:5,
+        name:"Devika",
+        city:"Ongole"
+    },
+    {
+        id:6,
+        name:"Manasa",
+        city:"Kadapa"
+    },
+    {
+        id:7,
+        name:"Lokesh",
+        city:"Chirala"
+    }
+]
