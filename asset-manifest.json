@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robo/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Robo/static/js/main.8ba77e9d.chunk.js",
+    "main.js.map": "/Robo/static/js/main.8ba77e9d.chunk.js.map",
+    "runtime-main.js": "/Robo/static/js/runtime-main.f7b147a0.js",
+    "runtime-main.js.map": "/Robo/static/js/runtime-main.f7b147a0.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Robo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.526ed9f7.chunk.js": "/Robo/static/js/2.526ed9f7.chunk.js",
+    "static/js/2.526ed9f7.chunk.js.map": "/Robo/static/js/2.526ed9f7.chunk.js.map",
+    "static/js/3.ad6845aa.chunk.js": "/Robo/static/js/3.ad6845aa.chunk.js",
+    "static/js/3.ad6845aa.chunk.js.map": "/Robo/static/js/3.ad6845aa.chunk.js.map",
+    "index.html": "/Robo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Robo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Robo/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.526ed9f7.chunk.js.LICENSE.txt": "/Robo/static/js/2.526ed9f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b147a0.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.526ed9f7.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.8ba77e9d.chunk.js"
+  ]
+}
