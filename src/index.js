@@ -4,7 +4,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 // eslint-disable-next-line
 import tachyons from 'tachyons';
-// import App from './App';
+//import App from './App';
 import App1 from "./App1";
 
 
